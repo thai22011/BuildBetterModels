@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chemical Engineer Turned Data Scientist with a huge crush for FinTech and Crypto
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ex-Dow Chemical process engineer
+2x Dragonboat BC Silver Medalist
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ethainguyen@gmail.com](mailto:ethainguyen@gmail.com)
